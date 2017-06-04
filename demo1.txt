@@ -1,0 +1,14 @@
+[x] Raspbian asennettu Etcherin avulla
+[x] Asetukset asetettu
+[x] Päivitykset asennettu
+[x] Käyttäjä luotu
+[x] Salasana vaihdettu
+[x] Etäyhteys saatu puttylla
+[x] Repo perustettu
+[x] Readme-tiedosto löytyy
+
+IP-osoite: 102.168.137.28
+
+Etäyhteys toimii puttylla, mutta ei TightVNC:llä.
+
+--
