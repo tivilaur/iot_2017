@@ -1,22 +1,41 @@
 Demo 2 
-## Kesken vielä...
+Tiina Lauri
+
+
+## Tehtävien 2.3 & 2.4 kytkennät: liikennevalot.png
+
 
 2.1
 -- 
 Led vilkkuu (kytkennät tehty täysin samalla tavalla kuten esimerkissä) [x]
-## Video d2_led.mp4
+## Video http://users.jyu.fi/~tivilaur/iot2017/demo2/d2_led
 
 2.2
 -- 
 Led syttyy napin painalluksella [x]
-## Video d2_nappi.mp4
+## Video http://users.jyu.fi/~tivilaur/iot2017/demo2/d2_nappi
 ## Kuva d2_nappi_kytkenta.png
 
-Tulosta PIR- sensorin tila ruudulle [ ]
+Tulostaa PIR- sensorin tila ruudulle (esimerkkikoodin mukaan) [x]
+## Kuva d2_PIRkuva.png
 
 2.3
 --
-Kytkennät oikein [ ]
-Koodi toimii [ ]
+Kytkennät oikein [x]
+Koodi toimii [x]
+## Koodi Liikennevalot_1.py
+## Video http://users.jyu.fi/~tivilaur/iot2017/demo2/liikennevalot1
 
+2.4
 --
+Signaalivalo toimii [x]
+## Koodi Signaalivalo.py
+## Video http://users.jyu.fi/~tivilaur/iot2017/demo2/signaalivalo
+
+
+2.5
+--
+Liiketunnistin mukaan liikennevaloihin [x]
+## Koodi tunnistinvalot.py
+## Video http://users.jyu.fi/~tivilaur/iot2017/demo2/tunnistinvalot
+## Kuva tunnistinvalot.png
