@@ -1,0 +1,61 @@
+Demo 3
+Tiina Lauri
+
+--
+
+Tehtävä 3.1
+--
+
+Sensori liitetty raspiin        [x]
+Dataa saa kirjoitettua näyttöön [x]
+## Kuva sensori.png
+## Käytetty AdafruitDHT.py koodia
+## Navigointi oikeaan kirjastoon (/Adafruit_Python_DHT/examples)
+## sudo ./AdafruitDHT.py 11 22
+
+
+Tehtävä 3.2
+--
+
+Service Account -tiedosto raspilla        [x]
+## Tehty kurssin ohjeiden mukaan Google-tilin 
+    kehittäjäkonsolin kautta, josta latautui lopulta 
+    automaattisesti raspille
+Dataa päivittyy Sheetsiin&sheets jaettu   [x]
+
+
+Tehtävä 3.3 & 3.4
+--
+
+Kamera toimintakunnossa [x]
+## Kuva d3_kamerakuva.jpg
+## Video d3_video.h264
+## Videon resoluutio vaihdettu koodissa (kamera_video.py)
+
+
+Tehtävä 3.5
+--
+
+Liiketunnistava kamera [x]
+## Koodi liikekamera.py
+                                                         -
+Tehtävä 3.6
+--
+
+Kamera ottaa kuvan tasatunnein [x]
+## Cronin avulla lauseella 0 * * * * raspistill -o /var/www/html/kuva.jpg
+
+
+Tehtävä 3.7
+--
+
+Web-palvelimella uusin tallennettu kuva [x]
+## Apuna käytetty Apachea:
+## 1. sudo apt-get install apache2
+## 2. service apache start
+## 3. (IP:n selvitys) hostname I
+## 4. cd /var/www/html
+## 5. ls -al
+## 6. sudo chown pi: index.html
+
+## html: index.html
