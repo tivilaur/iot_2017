@@ -1,0 +1,63 @@
+Demo 4
+Tiina Lauri
+
+##motion.conf tiedostossa tehtävät 4.1-4.4
+
+
+--
+
+Tehtävä 4.1
+--
+
+Motion asennettu & tallennuspaikat vaihdettu [x]
+
+
+Tehtävä 4.2
+--
+
+Motion tallentaa 2 kuvaa ennen liikettä                  [x]
+Jatkaa kuvien ottamista 5 sekunnin ajan liikkeen jälkeen [x]
+
+
+Tehtävä 4.3
+--
+
+Videon paketointi 10s ajalta [x]
+
+
+Tehtävä 4.4
+--
+
+Tallentaa kuvan vain kun keskellä havaitaan liikettä [x]
+
+
+Tehtävä 4.5
+--
+
+OpenCV asennettu onnistuneesti [x]
+
+
+Tehtävä 4.6
+--
+
+Vertailu [x]
+## Alkuperäinen kuva: haisuli.jpg
+## Vertailtava kuva: haisuli2.jpg
+## Vertailun tulos: vertailu1.jpg
+## Koodi: vertailu.py
+
+
+Tehtävä 4.7
+--
+
+Tunnista kasvot [x]
+## Koodi: kasvot.py
+## Alkuperäinen kuva: kasvot.jpg 
+## Tunnistetut kasvot: kasvotunnistus.jpg
+
+
+Tehtävä 4.8
+--
+
+Ohjelma ottaa kuvan picamerlla ja tunnistaa kasvot [x]
+## Koodi: kamerakasvot.py
